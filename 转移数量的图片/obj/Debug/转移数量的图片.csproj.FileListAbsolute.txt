@@ -1,0 +1,10 @@
+C:\Users\GUN神\source\repos\转移数量的图片\bin\Debug\转移数量的图片.exe.config
+C:\Users\GUN神\source\repos\转移数量的图片\bin\Debug\转移数量的图片.exe
+C:\Users\GUN神\source\repos\转移数量的图片\bin\Debug\转移数量的图片.pdb
+C:\Users\GUN神\source\repos\转移数量的图片\obj\Debug\转移数量的图片.csprojAssemblyReference.cache
+C:\Users\GUN神\source\repos\转移数量的图片\obj\Debug\转移数量的图片.Form1.resources
+C:\Users\GUN神\source\repos\转移数量的图片\obj\Debug\转移数量的图片.Properties.Resources.resources
+C:\Users\GUN神\source\repos\转移数量的图片\obj\Debug\转移数量的图片.csproj.GenerateResource.cache
+C:\Users\GUN神\source\repos\转移数量的图片\obj\Debug\转移数量的图片.csproj.CoreCompileInputs.cache
+C:\Users\GUN神\source\repos\转移数量的图片\obj\Debug\转移数量的图片.exe
+C:\Users\GUN神\source\repos\转移数量的图片\obj\Debug\转移数量的图片.pdb
